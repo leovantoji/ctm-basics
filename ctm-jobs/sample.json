@@ -1,0 +1,15 @@
+{
+    "FolderSample": {
+        "Type": "Folder",
+        "Job1": {
+            "Type": "Job:Command",
+            "Command": "echo I am a Job",
+            "RunAs": "controlm"
+        },
+        "Job2": {
+            "Type": "Job:Command",
+            "Command": "echo I am a Job",
+            "RunAs": "controlm"
+        }
+    }
+}
